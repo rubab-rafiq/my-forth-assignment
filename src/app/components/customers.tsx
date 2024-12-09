@@ -1,7 +1,7 @@
 
-import Image from "next/image";
-import tick from "@/app/assets/tick.png";
-import fullstar from "@/app/assets/f-star.png";
+import Image from 'next/image';
+import tick from '@/app/assets/tick.png';
+import fullstar from '@/app/assets/f-star.png';
 
 export default function Customers() {
     return (
@@ -38,9 +38,11 @@ export default function Customers() {
                                 </span>
                             </h3>
                             <p className="font-normal text-[14px] leading-[20px] opacity-60 lg:text-[16px] lg:leading-[22px]">
-                                "I'm blown away by the quality and style of the clothes I received from Shop.co.
-                                From casual wear to elegant dresses, every piece I've bought has exceeded my expectations.”
-                            </p>
+    &quot;I&apos;m blown away by the quality and style of the clothes I received from Shop.co.
+    From casual wear to elegant dresses, every piece I&apos;ve bought has exceeded my expectations.&quot;
+</p>
+
+
                         </div>
                     </div>
                 </div>
@@ -69,9 +71,11 @@ export default function Customers() {
                                 </span>
                             </h3>
                             <p className="font-normal text-[14px] leading-[20px] opacity-60 lg:text-[16px] lg:leading-[22px]">
-                                "As someone who's always on the lookout for unique fashion pieces, I'm thrilled to have stumbled upon Shop.co.
-                                The selection of clothes is not only diverse but also on-point with the latest trends.”
-                            </p>
+    &quot;As someone who&apos;s always on the lookout for unique fashion pieces, I&apos;m thrilled to have stumbled upon Shop.co.
+    The selection of clothes is not only diverse but also on-point with the latest trends.&quot;
+</p>
+
+
                         </div>
                     </div>
                 </div>
@@ -100,8 +104,9 @@ export default function Customers() {
                                 </span>
                             </h3>
                             <p className="font-normal text-[14px] leading-[20px] opacity-60 lg:text-[16px] lg:leading-[22px]">
-                                "Shop.co has become my go-to for stylish, comfortable clothing that suits all my needs. Their customer service is unmatched!”
-                            </p>
+    &quot;Shop.co has become my go-to for stylish, comfortable clothing that suits all my needs. Their customer service is unmatched!&quot;
+</p>
+
                         </div>
                     </div>
                 </div>

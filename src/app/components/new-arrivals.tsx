@@ -1,10 +1,10 @@
 import Image from "next/image";
-import shirt from "@/app/assets/newarrivals/shirt.png";
-import paint from "@/app/assets/newarrivals/paint.png";
-import shirt2 from "@/app/assets/newarrivals/shirt2.png";
-import shirt3 from "@/app/assets/newarrivals/shirt3.png";
-import halfstar from "@/app/assets/h-star.png";
-import fullstar from "@/app/assets/f-star.png";
+import shirt from '@/app/assets/newarrivals/shirt.png';
+import paint from '@/app/assets/newarrivals/paint.png';
+import shirt2 from '@/app/assets/newarrivals/shirt2.png';
+import shirt3 from '@/app/assets/newarrivals/shirt3.png';
+import halfstar from '@/app/assets/h-star.png';
+import fullstar from '@/app/assets/f-star.png';
 export default function NewArrivals() {
     return (
       <div className="relative py-8 ">

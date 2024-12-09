@@ -1,16 +1,16 @@
 
 
-import Image from "next/image"
-import envelop from "@/app/assets/env.png"
-import twitter from "@/app/assets/footerimage/twitter.png";
-import instagram from "@/app/assets/footerimage/insta.png";
-import facebook from "@/app/assets/footerimage/fb.png";
-import github from "@/app/assets/footerimage/github.png";
-import img1 from "@/app/assets/footerimage/img1.png";
-import  img2 from "@/app/assets/footerimage/img2.png";
-import img3 from "@/app/assets/footerimage/img3.png";
-import img4 from "@/app/assets/footerimage/img4.png";
-import img5 from "@/app/assets/footerimage/img5.png";
+import Image from 'next/image'
+import envelop from '@/app/assets/env.png'
+import twitter from '@/app/assets/footerimage/twitter.png';
+import instagram from '@/app/assets/footerimage/insta.png';
+import facebook from '@/app/assets/footerimage/fb.png';
+import github from '@/app/assets/footerimage/github.png';
+import img1 from '@/app/assets/footerimage/img1.png';
+import  img2 from '@/app/assets/footerimage/img2.png';
+import img3 from '@/app/assets/footerimage/img3.png';
+import img4 from '@/app/assets/footerimage/img4.png';
+import img5 from '@/app/assets/footerimage/img5.png';
 
 
 export default function Footer() {
